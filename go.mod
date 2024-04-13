@@ -1,4 +1,4 @@
-module github.com/akhil/golang-react-todo
+module github.com/User-LazySloth/GoProject
 
 go 1.16
 
