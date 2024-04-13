@@ -7,7 +7,7 @@ import(
 	"log"
 	"net/http"
 	"os"
-	"github.com/akhil/golang-react-todo/models"
+	"github.com/User-LazySloth/GoProject/models"
 	"github.com/joho/godotenv"
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"
